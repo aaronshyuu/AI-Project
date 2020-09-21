@@ -1,4 +1,4 @@
-# Taxi Reinforcement Learning Project
+# Taxi - Reinforcement Learning 
 
 ## Description
 In this game, the taxi is our agent and it needs to deliver a passenger to their destination. There are four designated locations in the grid world indicated by R, G, Y, and B. When the episode starts, the taxi starts off at a random square and the passenger is at a random location. The taxi drives to the passenger's location, picks up the passenger, drives to the passenger's destination (another one of the four specified locations), and then drops off the passenger. Once the passenger is dropped off, the episode ends.
